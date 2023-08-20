@@ -7,8 +7,8 @@
 
 ### Lets Talk about Personal Stuff:
 
-- 🚀 &nbsp; I’m currently learning Full Stack Python.
-- 📫 &nbsp; **How to reach me**: rabbitix98@gmail.com  _i always answer_
+- 🚀 &nbsp; I’m currently learning Python.
+- 📫 &nbsp; **How to reach me**: rabbitix98@gmail.com  
 
 
 
